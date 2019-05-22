@@ -1,1 +1,1 @@
-# brain_like_computation
+# brain_like_computing
